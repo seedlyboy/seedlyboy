@@ -1,5 +1,7 @@
 <div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=seedlyboy&style=flat-square&color=301934&ffffff&label=sprout+&+cosmo+dessers)
+
 <img width="2048" height="1536" alt="Untitled21_20261014213350" src="https://github.com/user-attachments/assets/cde8f0c5-bb98-41e8-b9b3-1a3a22d51d26" />
 
 <div align="center">
