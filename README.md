@@ -3,8 +3,10 @@
 <img width="2048" height="1536" alt="Untitled21_20261014213350" src="https://github.com/user-attachments/assets/cde8f0c5-bb98-41e8-b9b3-1a3a22d51d26" />
 
 <div align="center">
-  
-$\color{#9190BC}{\textsf{Eddi}}$
+
+&emsp;
+
+$\color{#23395D}{\textsf{ac:&emsp;ch3rrysigma09&emsp;,&emsp;gggula&emsp;underscore&emsp;huesos&emsp;on&emsp;x}}$
 
 <!--
 **seedlyboy/seedlyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
